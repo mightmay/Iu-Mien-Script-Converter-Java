@@ -1,4 +1,10 @@
 Document Character Converter is a tool to convert between different encoding formats and different scripts.
+This is what it can do:
+Convert between Iu Mien Script Alphabet:
+Mien New Roman, Mien Old Roman, Mien Lao, Mien Thai 
+
+Convert Myanmar Script
+
 
 It currently supports the following types of converters:
 
